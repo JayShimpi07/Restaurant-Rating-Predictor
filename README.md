@@ -6,57 +6,35 @@ Built using Python, Streamlit, and Random Forest Regression, this project provid
 🚀 Features
 
 📂 Upload restaurant dataset (CSV)
-
 🧠 Train ML model automatically
-
 📊 Evaluate model using RMSE and R² score
-
 🔥 Identify Top 10 influential features
-
 📈 Visualize feature importance
-
 🖥️ Clean and interactive Streamlit UI
 
 🧠 Machine Learning Model
-
 Algorithm: Random Forest Regressor
-
 Preprocessing:
-
 One-hot encoding for categorical features
-
 Feature scaling using StandardScaler
-
 Evaluation Metrics:
-
 Root Mean Square Error (RMSE)
-
 R² Score
 
 📊 Input Features
-
 Locality
-
 Cuisines
-
 Average Cost for Two
-
 Votes
 
 🎯 Target Variable
-
 Aggregate Restaurant Rating
 
 🛠️ Tech Stack
-
 Language: Python
-
 Web Framework: Streamlit
-
 ML Library: scikit-learn
-
 Data Handling: Pandas
-
 Visualization: Matplotlib
 
 📁 Project Structure
@@ -67,6 +45,7 @@ Predict Restaurant Ratings/
 │── README.md
 
 ▶️ How to Run the Project
+
 1️⃣ Clone the Repository
 git clone https://github.com/JayShimpi07/Predict-Restaurant-Ratings.git
 cd Predict-Restaurant-Ratings
@@ -91,43 +70,27 @@ matplotlib
 📌 Screen recording of the project is available in this repository or linked below:
 
 👉 Click here to watch the demo video
-
-(https://github.com/JayShimpi07/Restaurant-Rating-Predictor/blob/main/Output.mp4)
+(https://raw.githubusercontent.com/JayShimpi07/Restaurant-Rating-Predictor/main/Output.mp4)
 
 📈 Output Highlights
-
 Displays Top 10 Features influencing restaurant ratings
-
 Shows model performance using:
-
 RMSE
-
 R² Score
-
 Interactive plots for better understanding
 
 🎯 Use Cases
-
 Restaurant analytics
-
 Business intelligence
-
 ML portfolio project
-
 Academic mini / major project
-
 Placement & interview showcase
 
 🔮 Future Enhancements
-
 🔹 Manual rating prediction form
-
 🔹 Save/load trained model
-
 🔹 Add hyperparameter tuning
-
 🔹 Deploy on Streamlit Cloud
-
 🔹 Integrate FastAPI backend
 
 👤 Author
