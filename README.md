@@ -70,7 +70,7 @@ matplotlib
 📌 Screen recording of the project is available in this repository or linked below:
 
 👉 Click here to watch the demo video
-(https://raw.githubusercontent.com/JayShimpi07/Restaurant-Rating-Predictor/main/Output.mp4)
+https://github.com/user-attachments/assets/87aefef7-42c4-434a-b839-4bc4e99d7a45
 
 📈 Output Highlights
 Displays Top 10 Features influencing restaurant ratings
